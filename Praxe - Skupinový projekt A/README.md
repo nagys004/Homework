@@ -1,1 +1,3 @@
-Stránka o koronaviru
+ # Stránka o koronaviru - Společná práce s Jirkou Víznerem
+ Vizitka s vaší fotografii a z druhé strany odkazy na vaše sociální síťe.
+ ❮img src="side1.jpg" ❯
