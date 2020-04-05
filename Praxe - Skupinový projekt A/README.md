@@ -6,4 +6,6 @@
 ![](side2.jpg)
 Animace přechodu
 ![](side3.jpg)
+Animace kliknutí na ikonku
+![](side4.jpg)
 
