@@ -11,3 +11,4 @@ Animace kliknutí na ikonku
 Přesměrování v novém okně
 ![](side5.jpg)
 
+ # Tento projekt jsem dělali společnými silami.
