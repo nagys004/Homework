@@ -4,3 +4,6 @@
 ![](side1.jpg)
 2. strana
 ![](side2.jpg)
+Animace přechodu
+![](side3.jpg)
+
