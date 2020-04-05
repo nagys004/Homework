@@ -8,4 +8,6 @@ Animace přechodu
 ![](side3.jpg)
 Animace kliknutí na ikonku
 ![](side4.jpg)
+Přesměrování v novém okně
+![](side5.jpg)
 
