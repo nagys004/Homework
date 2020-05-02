@@ -8,8 +8,7 @@
   
   Kebely:
   25m KOAX kabelu za 450Kč
-  ![](koax2.jpg =150x100)
-  
+  <img src="koax2.jpg" width="20%">
   60m síťového kabelu za 1500Kč
   
   
