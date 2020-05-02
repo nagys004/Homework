@@ -1,6 +1,6 @@
   # POS – Návrh domácí sítě
   Půdorys bytu obývaný 2 programátory, který je v přízemí i s garáží o celkové velikosti 25x35m²
-  ![](2.jpg)
+  ![](3.jpg)
   # Elektornika: 
   PC:  2x iMac 2019 s 5K za 65900,-/ks
   
@@ -17,6 +17,12 @@
   Audio: Studiová repro soustava Logitech za 20549,-
   
   <img src="Audio.jpg" width="30%">
+  
+  Tiskárna: Multifunkční EPSON za 5500,-
+  
+  <img src="tisk.jpg" width="30%">
+  
+  
   
   
   
