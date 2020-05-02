@@ -1,5 +1,5 @@
   # POS – Návrh domácí sítě
-  Půdorys bytu, který je v přízemí i s garáží o celkové velikosti 25x35m²
+  Půdorys bytu obývaný 2 programátory, který je v přízemí i s garáží o celkové velikosti 25x35m²
   ![](1.jpg)
   # Elektornika: 
   PC:  2x iMac 2019 s 5K za 65900,-/ks
@@ -12,15 +12,15 @@
   
   
    # RACK:
-  Router: Asus cena 2500Kč
+  Router: Asus cena 2500,-
   
   <img src="router.jpg" width="20%">
   
-  Switch: Tplink za 450Kč
+  Switch: Tplink za 450,-
   
   <img src="switch.jpg" width="20%">
   
-  Rack skříň: Neznačková za 3000Kč
+  Rack skříň: Neznačková za 3000,-
   
   <img src="rack.jpg" width="20%">
   
@@ -30,14 +30,17 @@
   
   
   # Kebely:
-  25m KOAX kabelu za 450Kč
+  25m KOAX kabelu za 450,-
   
   <img src="koax2.jpg" width="10%">
   
-  60m síťového kabelu za 1500Kč
+  60m síťového kabelu za 1500,-
   
   <img src="sit.jpg" width="10%">
   
+  # Anténa 
+  
+  <img src="ant.jpg" width="10%">
    
   
   
