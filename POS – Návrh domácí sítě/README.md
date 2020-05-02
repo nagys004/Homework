@@ -1,6 +1,15 @@
   # POS – Návrh domácí sítě
   Půdorys bytu, který je v přízemí i s garáží o celkové velikosti 25x35m²
   ![](1.jpg)
+  # Elektornika: 
+  PC:  2x iMac 2019 s 5K za 65900,-/ks
+  
+  <img src="imac.jpg" width="30%">
+  
+  TV: 2x 55" 4K UHD SAMSUNG 35900,-/ks
+  
+  <img src="tv.jpg" width="20%">
+  
   
    # RACK:
   Router: Asus cena 2500Kč
@@ -20,7 +29,7 @@
   
   
   
-  Kebely:
+  # Kebely:
   25m KOAX kabelu za 450Kč
   
   <img src="koax2.jpg" width="10%">
