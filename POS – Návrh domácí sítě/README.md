@@ -57,7 +57,7 @@
   # Souhr
   Celková cena za síťové vybavení bytu bude 258,900Kč.
   
-  Celková cena se klukům určitě brzy vrátí, jedná se tedy o podařenou investici a s nastavením síťe kluci neboud mít problém.
+  Celková cena se klukům určitě brzy vrátí, jedná se tedy o podařenou investici a s nastavením síťe kluci nebudou mít problém.
    
   
   
