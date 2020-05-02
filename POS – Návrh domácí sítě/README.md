@@ -1,7 +1,6 @@
   # POS – Návrh domácí sítě
-  Půdorys bytu
+  Půdorys bytu, který je v přízemí i s garáží o celkové velikosti 25x35m²
   ![](1.jpg)
-  Byt je v přízemí i s garáží o velikosti 25x35m²
   
   
   
