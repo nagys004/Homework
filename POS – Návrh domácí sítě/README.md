@@ -10,6 +10,15 @@
   
   <img src="tv.jpg" width="30%">
   
+  Herní konzole: 2x PS4 Pro za 10499,-/ks
+  
+  <img src="ps.jpg" width="30%">
+  
+  Audio: Studiová repro soustava Logitech za 20549,-
+  
+  <img src="Audio.jpg" width="30%">
+  
+  
   
    # RACK:
   Router: Asus cena 2500,-
