@@ -52,7 +52,7 @@
   # Anténa 
   EMOS TX-27LTE DVB-T2 za 950,-
   
-  <img src="ant.jpg" width="10%">
+  <img src="ant.jpg" width="20%">
   
   # Souhr
   Celková cena za síťové vybavení bytu bude 258,900Kč.
