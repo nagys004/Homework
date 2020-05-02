@@ -15,6 +15,7 @@
   <img src="ps.jpg" width="30%">
   
   Audio: Studiová repro soustava Logitech za 20549,-
+  
   <img src="audio.jpg" width="30%">
   
   Tiskárna: Multifunkční EPSON za 5500,-
@@ -39,11 +40,7 @@
   <img src="rack.jpg" width="20%">
   
   
-  
-  
-  
-  
-  # Kebely:
+   # Kebely:
   25m KOAX kabelu za 450,-
   
   <img src="koax2.jpg" width="10%">
