@@ -53,6 +53,11 @@
   EMOS TX-27LTE DVB-T2 za 950,-
   
   <img src="ant.jpg" width="10%">
+  
+  # Souhr
+  Celková cena za síťové vybavení bytu bude 258,900Kč.
+  
+  Celková cena se klukům určitě brzy vrátí, jedná se tedy o podařenou investici a s nastavením síťe kluci neboud mít problém.
    
   
   
