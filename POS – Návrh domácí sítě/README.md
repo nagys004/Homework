@@ -16,7 +16,7 @@
   
   Audio: Studiová repro soustava Logitech za 20549,-
   
-  <img src="audio.jpg" width="30%">
+  <img src="audio1.jpg" width="30%">
   
   Tiskárna: Multifunkční EPSON za 5500,-
   
