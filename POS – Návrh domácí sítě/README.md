@@ -12,5 +12,9 @@
   
   60m síťového kabelu za 1500Kč
   
+  <img src="sit.jpg" width="10%">
+  
+   
+  
   
   
