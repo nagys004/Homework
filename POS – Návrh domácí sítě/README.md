@@ -1,6 +1,6 @@
   # POS – Návrh domácí sítě
   Půdorys bytu obývaný 2 programátory, který je v přízemí i s garáží o celkové velikosti 25x35m²
-  ![](1.jpg)
+  ![](2.jpg)
   # Elektornika: 
   PC:  2x iMac 2019 s 5K za 65900,-/ks
   
@@ -39,6 +39,7 @@
   <img src="sit.jpg" width="10%">
   
   # Anténa 
+  EMOS TX-27LTE DVB-T2 za 950,-
   
   <img src="ant.jpg" width="10%">
    
