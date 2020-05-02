@@ -7,7 +7,7 @@ Dominika Kabátková - Vykreslování
 
 Waldemar Kotmel - Pomoc s vykreslováním a randomizace
 
-Patrik Nagy - Randomizace
+Patrik Nagy - Randomizace, odpovědnost za GitHub
 
 # Náhodná Kulička vytvořená v JavěFX
  Start Programu
