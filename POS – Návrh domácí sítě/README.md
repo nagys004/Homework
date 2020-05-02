@@ -8,7 +8,7 @@
   
   TV: 2x 55" 4K UHD SAMSUNG 35900,-/ks
   
-  <img src="tv.jpg" width="20%">
+  <img src="tv.jpg" width="30%">
   
   
    # RACK:
