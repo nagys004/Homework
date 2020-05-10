@@ -28,6 +28,6 @@ URL Adresa - data
 
 <img src="7.jpg" width="100%">
 
-S formulářem, na kterém by bylo využití JQueryUI jsem si nevědel rady, proto jsem udělal co šlo, co mi něco dalo, práce trvala cca 3 hoidny.
+# S formulářem, na kterém by bylo využití JQueryUI jsem si nevědel rady, proto jsem použil HTML + CSS.
 
 
