@@ -1,4 +1,4 @@
- # Java - Sololearn - Certifikát
+ # Java - Sololearn - Certifikát Java
  
  Obrázek certifikátu, který jsem dodělal 7. května
  
