@@ -3,10 +3,9 @@
  Obrázek certifikátu, který jsem dodělal 7. května
  
 <img src="1.jpg" width="90%">
-
-
-
+# Odkaz na Sololearn certifikát
 ## 
 [Sololarn certifikát](https://www.sololearn.com/Certificate/1068-2293461/pdf/)
+# Odkaz na Sololearn profil
 ##
-[Sololearn profil](https://www.sololearn.com/Profile/2293461)
+[profil](https://www.sololearn.com/Profile/2293461)
